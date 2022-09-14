@@ -180,7 +180,7 @@ test('rounding', () => {
   expect(rounding2).toBe(6);
   expect(typeof rounding3).toBe('number');
   expect(rounding3).toBe(5);
-})
+});
 /*
 
 ! SKILL 6 Type conversion string to number using parseInt() 🍎
