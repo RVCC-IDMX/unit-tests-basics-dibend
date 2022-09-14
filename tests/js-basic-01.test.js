@@ -91,7 +91,7 @@ TODO: the number literal value 7.
 */
 
 // * Add your code BELOW here
-
+const daysInWeek = 7;
 // * Don't mess with the test code below here!
 
 test('daysInWeek', () => {
