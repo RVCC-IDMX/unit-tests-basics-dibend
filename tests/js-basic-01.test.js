@@ -46,7 +46,7 @@ TODO: Use the let keyword to declare a variable called myName and make sure you
 TODO: DO NOT assign it a value.
 */
 // * Add your code BELOW here
-
+let myName;
 // * Don't mess with the test code below here!
 
 test('myName', () => {
