@@ -69,7 +69,7 @@ TODO: number literal value of integer 22.
 */
 
 // * Add your code BELOW here
-
+let age = 22;
 // * Don't mess with the test code below here!
 
 test('age', () => {
