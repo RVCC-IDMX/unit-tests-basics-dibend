@@ -130,7 +130,8 @@ TODO: of one variable to a different variable.
 */
 
 // * Add your code BELOW here
-
+let myWorkDays;
+myWorkDays = daysInWeek;
 // * Don't mess with the test code below here!
 
 test('myWorkDays', () => {
@@ -161,7 +162,9 @@ TODO: (using the * operator for multiplication).
 */
 
 // * Add your code BELOW here
-
+let oops;
+let sillyMath;
+sillyMath = oops * 2;
 // * Don't mess with the test code below here!
 
 test('sillyMath', () => {
@@ -188,7 +191,8 @@ TODO: In the second line, assign sillyString to 'Hello, ' and concatenate oops t
 */
 
 // * Add your code BELOW here
-
+let sillyString;
+sillyString = 'Hello, ' + oops;
 // * Don't mess with the test code below here!
 
 test('sillyString', () => {
@@ -208,7 +212,7 @@ TODO: keyword and assign it a value.
 
 // a variable (let) named year and set it to 2022
 // * Add your code BELOW here
-
+let year = 2022;
 // * Don't mess with the test code below here!
 test('year', () => {
   expect(year).toBe(2022);
@@ -218,7 +222,7 @@ test('year', () => {
 // a variable called firstName and set it to 'John'
 
 // * Add your code BELOW here
-
+let firstName = 'John';
 // * Don't mess with the test code below here!'
 test('firstName', () => {
   expect(firstName).toBe('John');
@@ -228,7 +232,7 @@ test('firstName', () => {
 // a constant called taxRate and set it to 0.2
 
 // * Add your code BELOW here
-
+const taxRate = 0.2;
 // * Don't mess with the test code below here!
 test('taxRate', () => {
   expect(taxRate).toBe(0.2);
